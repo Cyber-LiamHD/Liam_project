@@ -1,0 +1,14 @@
+body {
+    background-image: url("5130642.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+p {
+    color: blue;
+    text-decoration: underline;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: "Big Shoulder Stencil Disply";
+    font-weight: 70;
+    font-size: 20px;
+}
