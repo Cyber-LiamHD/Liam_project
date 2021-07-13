@@ -1,14 +1,43 @@
 body {
-    background-image: url("5130642.jpg");
+    background-image: url("chalk-rubbed-chalkboard-abstract-blackboard-wall-text_84485-953.jpg");
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: top left;
+    background-size: cover;
 }
 
 p {
-    color: blue;
+    color: whitesmoke;
+    text-decoration: none;
+    font-family: 'Yomogi', cursive;
+    font-style: "Yomogi ";
+    font-weight: 70;
+    font-size: 23px;
+    text-align: left;
+}
+
+h1 {
+    color: mediumspringgreen;
     text-decoration: underline;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-style: "Big Shoulder Stencil Disply";
+    font-family: 'Yomogi', cursive;
+    font-style: "Yomogi ";
+    font-weight: 70;
+    font-size: 45px;
+    text-align: left;
+}
+
+body {
+    color: mediumspringgreen;
+    text-decoration: underline;
+    font-family: 'Yomogi', cursive;
+    font-style: "Yomogi ";
     font-weight: 70;
     font-size: 20px;
+    text-align: left;
+}
+
+#Skills {
+    background-color: gray;
+    color: mediumspringgreen;
+    margin: 20px;
+    padding: 20px;
 }
